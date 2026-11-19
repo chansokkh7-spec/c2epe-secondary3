@@ -1,0 +1,378 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:05.013
+Hello, everyone! I'm Ms. Emma. Welcome to Online C one, Book one.
+
+2
+00:00:05.313 --> 00:00:08.746
+Hi! I'm Visal. Let's learn together!
+
+3
+00:00:09.046 --> 00:00:14.671
+Unit seven: Formal Logic. Today you will construct and test arguments with conditional clauses.
+
+4
+00:00:14.971 --> 00:00:17.774
+Here is our lesson map. Let's start!
+
+5
+00:00:18.733 --> 00:00:21.966
+Part one: words. You will learn eight new words.
+
+6
+00:00:22.817 --> 00:00:23.667
+Premise.
+
+7
+00:00:24.683 --> 00:00:28.726
+Premise means a statement assumed to be true from which a conclusion is drawn.
+
+8
+00:00:29.317 --> 00:00:31.804
+The argument rests on a questionable premise.
+
+9
+00:00:32.417 --> 00:00:35.382
+Your turn. Say: Premise.
+
+10
+00:00:38.233 --> 00:00:39.095
+Premise.
+
+11
+00:00:39.850 --> 00:00:40.932
+Syllogism.
+
+12
+00:00:41.917 --> 00:00:46.319
+Syllogism means a form of reasoning with two premises and a conclusion.
+
+13
+00:00:46.917 --> 00:00:50.669
+Aristotle formalised the syllogism over two thousand years ago.
+
+14
+00:00:51.283 --> 00:00:53.460
+Your turn. Say: Syllogism.
+
+15
+00:00:56.300 --> 00:00:57.185
+Syllogism.
+
+16
+00:00:57.950 --> 00:00:58.928
+Validity.
+
+17
+00:00:59.917 --> 00:01:04.238
+Validity means the property of an argument whose conclusion follows necessarily.
+
+18
+00:01:04.850 --> 00:01:07.221
+Validity concerns form, not truth.
+
+19
+00:01:07.817 --> 00:01:10.562
+Your turn. Say: Validity.
+
+20
+00:01:13.400 --> 00:01:14.355
+Validity.
+
+21
+00:01:15.117 --> 00:01:16.071
+Fallacy.
+
+22
+00:01:17.083 --> 00:01:20.917
+Fallacy means an error in reasoning that renders an argument unsound.
+
+23
+00:01:21.517 --> 00:01:23.969
+Circular reasoning is a common fallacy.
+
+24
+00:01:24.583 --> 00:01:27.305
+Your turn. Say: Fallacy.
+
+25
+00:01:30.167 --> 00:01:31.284
+Fallacy.
+
+26
+00:01:32.050 --> 00:01:33.144
+Deduction.
+
+27
+00:01:34.150 --> 00:01:38.274
+Deduction means reasoning from general principles to a specific conclusion.
+
+28
+00:01:38.883 --> 00:01:41.301
+Mathematical proof relies on deduction.
+
+29
+00:01:41.917 --> 00:01:44.592
+Your turn. Say: Deduction.
+
+30
+00:01:47.433 --> 00:01:48.400
+Deduction.
+
+31
+00:01:49.150 --> 00:01:50.221
+Induction.
+
+32
+00:01:51.217 --> 00:01:55.283
+Induction means reasoning from specific observations to a general rule.
+
+33
+00:01:55.883 --> 00:01:58.301
+Induction can never guarantee certainty.
+
+34
+00:01:58.917 --> 00:02:01.569
+Your turn. Say: Induction.
+
+35
+00:02:04.433 --> 00:02:05.481
+Induction.
+
+36
+00:02:06.217 --> 00:02:07.380
+Inference.
+
+37
+00:02:08.383 --> 00:02:12.403
+Inference means a conclusion reached on the basis of evidence and reasoning.
+
+38
+00:02:13.017 --> 00:02:15.457
+The inference was plausible but untested.
+
+39
+00:02:16.050 --> 00:02:18.447
+Your turn. Say: Inference.
+
+40
+00:02:21.300 --> 00:02:22.394
+Inference.
+
+41
+00:02:23.150 --> 00:02:24.116
+Soundness.
+
+42
+00:02:25.117 --> 00:02:29.194
+Soundness means the quality of a valid argument whose premises are all true.
+
+43
+00:02:29.783 --> 00:02:33.048
+Soundness requires both valid form and true premises.
+
+44
+00:02:33.650 --> 00:02:36.070
+Your turn. Say: Soundness.
+
+45
+00:02:38.933 --> 00:02:40.143
+Soundness.
+
+46
+00:02:40.933 --> 00:02:44.468
+Part two: dialogue. Let's listen to a conversation.
+
+47
+00:02:45.317 --> 00:02:52.781
+Visal, is the following argument valid? All fish can fly. A shark is a fish. Therefore, a shark can fly.
+
+48
+00:02:53.883 --> 00:03:01.136
+Surprisingly, yes. If the premises are true, then the conclusion must follow. The form is perfectly valid.
+
+49
+00:03:02.250 --> 00:03:04.029
+But sharks can't fly!
+
+50
+00:03:05.117 --> 00:03:11.867
+Exactly. The argument is valid but not sound, because the first premise is false.
+
+51
+00:03:12.983 --> 00:03:15.354
+So how would you test an argument in an essay?
+
+52
+00:03:16.450 --> 00:03:25.964
+I ask two questions: if every premise were true, would the conclusion be unavoidable? And are the premises actually true?
+
+53
+00:03:27.100 --> 00:03:28.507
+Part three: grammar.
+
+54
+00:03:29.350 --> 00:03:32.592
+Grammar focus: Conditional clauses (if and then).
+
+55
+00:03:32.892 --> 00:03:34.218
+Look at the pattern.
+
+56
+00:03:34.917 --> 00:03:38.426
+If the premises are true, then the conclusion must follow.
+
+57
+00:03:39.317 --> 00:03:42.767
+If one premise is false, then the argument cannot be sound.
+
+58
+00:03:43.683 --> 00:03:47.564
+If the conclusion were false, then at least one premise would have to be false.
+
+59
+00:03:48.500 --> 00:03:57.166
+In logic, 'if … then …' expresses necessity. Use 'must' for a certain conclusion, 'cannot' for an impossible one, and 'were … would' for hypothetical testing.
+
+60
+00:03:57.917 --> 00:04:02.984
+Be careful! Don't say: If all premises are true, the conclusion must follows.
+
+61
+00:04:04.933 --> 00:04:08.883
+Say: If all premises are true, the conclusion must follow.
+
+62
+00:04:09.183 --> 00:04:11.171
+After 'must', use the base verb.
+
+63
+00:04:11.967 --> 00:04:14.665
+Part four: reading. Read and listen.
+
+64
+00:04:15.467 --> 00:04:17.362
+Valid Is Not the Same as True.
+
+65
+00:04:17.662 --> 00:04:22.099
+Formal logic studies the structure of arguments rather than the truth of their content.
+
+66
+00:04:23.100 --> 00:04:27.770
+An argument is valid when, if the premises are true, then the conclusion must follow.
+
+67
+00:04:28.767 --> 00:04:34.806
+Consequently, an argument can be perfectly valid and yet reach an absurd conclusion from a false premise.
+
+68
+00:04:35.800 --> 00:04:41.457
+Soundness is therefore stricter: it requires both valid form and premises that are actually true.
+
+69
+00:04:42.467 --> 00:04:47.705
+Whereas deduction can guarantee its conclusions, induction can only make them more or less probable.
+
+70
+00:04:48.800 --> 00:04:53.046
+Part five: quiz. Five questions. Are you ready?
+
+71
+00:04:53.883 --> 00:04:57.032
+If the premises are true, then the conclusion blank follow.
+
+72
+00:04:57.332 --> 00:05:00.521
+A, must. B, should to. C, has.
+
+73
+00:05:04.067 --> 00:05:05.555
+The answer is A: must.
+
+74
+00:05:06.717 --> 00:05:12.068
+'All fish fly. Sharks are fish. So sharks fly.' This argument is blank.
+
+75
+00:05:12.368 --> 00:05:17.623
+A, sound but invalid. B, valid but unsound. C, valid and sound.
+
+76
+00:05:21.167 --> 00:05:23.967
+The answer is B: valid but unsound.
+
+77
+00:05:25.117 --> 00:05:28.045
+Reasoning from observations to a general rule is blank.
+
+78
+00:05:28.345 --> 00:05:32.103
+A, deduction. B, induction. C, syllogism.
+
+79
+00:05:35.667 --> 00:05:37.631
+The answer is B: induction.
+
+80
+00:05:38.783 --> 00:05:42.617
+If every premise blank true, would the conclusion be unavoidable?
+
+81
+00:05:42.917 --> 00:05:46.176
+A, were. B, is being. C, be.
+
+82
+00:05:49.733 --> 00:05:51.222
+The answer is A: were.
+
+83
+00:05:52.383 --> 00:05:55.567
+According to the reading, what can induction NOT do?
+
+84
+00:05:55.867 --> 00:06:01.610
+A, guarantee its conclusions. B, use observations. C, suggest probabilities.
+
+85
+00:06:05.167 --> 00:06:08.350
+The answer is A: guarantee its conclusions.
+
+86
+00:06:09.567 --> 00:06:12.544
+Part six: speaking. It's your turn to talk.
+
+87
+00:06:13.383 --> 00:06:16.497
+What is the difference between a valid argument and a sound one?
+
+88
+00:06:33.283 --> 00:06:34.830
+Now listen to Visal.
+
+89
+00:06:35.130 --> 00:07:05.097
+A valid argument is one in which, if the premises are true, then the conclusion must follow. A sound argument goes one step further, because its premises really are true. For example, 'all cats can swim, Tom is a cat, so Tom can swim' is valid, but it is not sound. Some students confuse validity with truth, which is understandable. However, in logic, validity only describes the structure of reasoning.
+
+90
+00:07:05.397 --> 00:07:06.967
+Excellent answer, Visal!
+
+91
+00:07:07.883 --> 00:07:12.579
+Great work! Now you can use eight new words and conditional clauses (if and then).
+
+92
+00:07:12.879 --> 00:07:17.447
+Today's value is rigor. Check every step carefully before you trust a conclusion.
+
+93
+00:07:17.747 --> 00:07:20.074
+See you in Unit eight. Goodbye!
+
+94
+00:07:20.374 --> 00:07:23.154
+Thank you, Ms. Emma! Bye, everyone!
+
